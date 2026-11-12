@@ -48,11 +48,56 @@ a{color:#3159c9}
 .badge,.tag{border-radius:999px;background:#edf2ff;color:#3159c9;padding:4px 10px;font-weight:700}
 hr{border:0;border-top:1px solid var(--line);margin:24px 0}
 @media(max-width:700px){header{border-radius:20px!important;margin:8px!important;padding:26px 20px!important}.wrap,main.wrap{padding:12px 12px 50px!important}nav,.toc{position:relative;top:auto;overflow-x:auto}section,.panel,.card{border-radius:16px!important;padding:16px!important}table{display:block;overflow-x:auto;white-space:nowrap}}
-</style></head><body>
+</style>
+<style id="final-layout-fix">
+:root{--ink:#17243b;--muted:#65738b;--line:#e2e8f2;--blue:#3159c9;--blue-dark:#203b83;--paper:#f4f7fc}
+html{scroll-behavior:smooth;scroll-padding-top:18px}
+body{background:linear-gradient(145deg,#f5f7fc 0%,#eef3fb 52%,#f8faff 100%)!important;color:var(--ink)!important;font-family:Inter,"Segoe UI",system-ui,sans-serif!important}
+.site-nav,nav,.toc,nav.toc{position:static!important;top:auto!important;z-index:1!important;backdrop-filter:none!important;box-shadow:0 5px 18px rgba(30,52,92,.055)!important}
+th{position:static!important;top:auto!important}
+header{background:linear-gradient(120deg,#172c59,#3159c9 65%,#7189e8)!important;border-radius:26px!important;box-shadow:0 16px 38px rgba(31,57,112,.15)!important}
+section,.panel,.card,.lesson-card,.sound-pair-section{background:#fff!important;border:1px solid #e1e8f3!important;border-radius:18px!important;box-shadow:0 8px 24px rgba(31,49,86,.045)!important}
+h2{color:#24448f!important;border-bottom:2px solid #e9efff;padding-bottom:10px}
+h3{color:#3159c9!important}
+table{border:1px solid #e1e8f3!important;border-radius:12px;overflow:hidden}
+th{background:#eaf0ff!important;color:#24448f!important}
+tbody tr:nth-child(even){background:#f8faff}
+button{transition:transform .15s ease,filter .15s ease,box-shadow .15s ease}
+button:hover{transform:translateY(-1px)}
+@media(max-width:700px){header{border-radius:18px!important}.site-nav,nav,.toc,nav.toc{overflow:visible!important}}
+</style>
+<style id="non-sticky-navigation-final">
+/* Navigation and table headers must scroll with the document on every screen. */
+html body nav, html body .toc, html body nav.toc, html body .site-nav, html body header nav {position:relative!important;top:auto!important;bottom:auto!important;left:auto!important;right:auto!important;inset:auto!important;z-index:1!important;transform:none!important;filter:none!important;backdrop-filter:none!important;}
+html body th{position:static!important;top:auto!important;}
+</style>
+</head><body>
 <header class="hero"><div class="wrap"><h1>TỔNG ÔN TIẾNG NGA – УРО́КИ 1–5</h1><p>Hệ thống hóa ngữ pháp, câu mẫu và toàn bộ danh sách từ vựng từ 5 file HTML, đối chiếu với giáo trình PDF 75 trang.</p><div class="badges"><span class="badge">5 bài học</span><span class="badge">288 mục từ (có bổ sung từ PDF)</span><span class="badge">Tra cứu &amp; lọc</span><span class="badge">Nghe tiếng Nga ru-RU</span><span class="badge">Dùng ngoại tuyến</span></div></div></header>
-<nav><div class="wrap"><a href="#map">Tổng quan</a><a href="#grammar">Ngữ pháp</a><a href="#sentences">Câu mẫu</a><a href="#vocabulary">Từ vựng</a><a href="#flashcards">Flashcard</a><a href="#quiz">Kiểm tra</a><a href="#sources">Đối chiếu nguồn</a></div></nav>
+<nav><div class="wrap"><a href="#map">Tổng quan</a><a href="#grammar">Ngữ pháp</a><a href="#sentences">Câu mẫu</a><a href="#vocabulary">Từ vựng</a><a href="#flashcards">Flashcard</a><a href="#quiz">Kiểm tra</a><a href="#sources">Đối chiếu nguồn</a><a href="#voiced-unvoiced">Phụ âm hữu thanh – vô thanh</a></div></nav>
 <main class="wrap">
-<section id="map"><h2>Hướng dẫn học và sơ đồ 5 bài</h2><p class="lead">Nên học theo thứ tự: nhận diện chữ và âm → giới thiệu người/vật → đại từ sở hữu → hỏi vị trí và yêu cầu → số nhiều, nghề nghiệp và động từ.</p>
+<section class="sound-pair-section" id="voiced-unvoiced">
+<h2>Phần bổ sung phát âm – Cặp phụ âm hữu thanh và vô thanh</h2>
+<p>Trong tiếng Nga, một số phụ âm tạo thành từng cặp đối lập theo độ rung của dây thanh: <strong>hữu thanh</strong> (dây thanh rung) và <strong>vô thanh</strong> (dây thanh không rung). Khi luyện, có thể đặt nhẹ tay lên cổ họng để cảm nhận sự rung ở âm hữu thanh.</p>
+<div class="table-wrap">
+<table class="sound-pair-table">
+<thead><tr><th>Cặp đối lập</th><th>Phụ âm hữu thanh</th><th>Phụ âm vô thanh</th><th>Gợi ý ghi nhớ</th></tr></thead>
+<tbody>
+<tr><td><strong>Б – П</strong></td><td class="ru-pair">Б б</td><td class="ru-pair">П п</td><td>Hai âm môi; phân biệt bằng độ rung dây thanh.</td></tr>
+<tr><td><strong>В – Ф</strong></td><td class="ru-pair">В в</td><td class="ru-pair">Ф ф</td><td>Răng trên chạm môi dưới; một âm hữu thanh, một âm vô thanh.</td></tr>
+<tr><td><strong>Г – К</strong></td><td class="ru-pair">Г г</td><td class="ru-pair">К к</td><td>Âm tắc ở phía sau lưỡi.</td></tr>
+<tr><td><strong>Д – Т</strong></td><td class="ru-pair">Д д</td><td class="ru-pair">Т т</td><td>Đầu lưỡi chạm vùng lợi/răng trên.</td></tr>
+<tr><td><strong>Ж – Ш</strong></td><td class="ru-pair">Ж ж</td><td class="ru-pair">Ш ш</td><td>Âm xát; cả hai thường được học là phụ âm cứng.</td></tr>
+<tr><td><strong>З – С</strong></td><td class="ru-pair">З з</td><td class="ru-pair">С с</td><td>Âm xát; phân biệt bằng độ rung dây thanh.</td></tr>
+</tbody>
+</table>
+</div>
+<div class="sound-note"><strong>Nhóm không có cặp đối lập trực tiếp:</strong><br/>
+    • Phụ âm hữu thanh vang: <strong>Л, М, Н, Р, Й</strong>.<br/>
+    • Phụ âm vô thanh không có cặp hữu thanh tương ứng: <strong>Х, Ц, Ч, Щ</strong>.
+  </div>
+<div class="sound-note"><strong>Đừng nhầm hai cách phân loại:</strong> hữu thanh – vô thanh nói về độ rung dây thanh; cứng – mềm nói về vị trí/nâng phần giữa lưỡi khi phát âm. Đây là hai đặc tính khác nhau. Theo phần phát âm của giáo trình, cần tiếp tục ghi nhớ các phụ âm luôn cứng <strong>Ж, Ш, Ц</strong> và luôn mềm <strong>Ч, Щ, Й</strong>.</div>
+<p><strong>Ghi chú về nguồn:</strong> Bảng sáu cặp trên là phần hệ thống hóa bổ trợ theo ngữ âm tiếng Nga chuẩn. Giáo trình scan Bài 1–5 giới thiệu âm phụ âm và quy tắc cứng – mềm (ví dụ phần “Согласные звуки”, trang PDF 2; “Твёрдые и мягкие согласные”, trang PDF 39 và 58), nhưng không trình bày nguyên bảng sáu cặp này thành một bảng riêng.</p>
+</section><section id="map"><h2>Hướng dẫn học và sơ đồ 5 bài</h2><p class="lead">Nên học theo thứ tự: nhận diện chữ và âm → giới thiệu người/vật → đại từ sở hữu → hỏi vị trí và yêu cầu → số nhiều, nghề nghiệp và động từ.</p>
 <div class="grid">
 <div class="tile"><span class="lesson-tag">Уро́к 1</span><strong>Nền tảng đọc và câu đơn</strong><p>33 chữ cái, nguyên âm/phụ âm, trọng âm, đại từ nhân xưng, Э́то…, Кто́? / Что́?, giống danh từ cơ bản.</p></div>
 <div class="tile"><span class="lesson-tag">Уро́к 2</span><strong>Âm, đồ vật, thời gian, vị trí</strong><p>Luyện âm và chữ, nhận biết giống, sinh vật/vật vô tri, số ít/số nhiều ban đầu, thời tiết, Когда́?, Где́? và các ví dụ địa điểm.</p></div>
