@@ -1,27 +1,33 @@
-<!doctype html>
-<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#17354a"><title>Học tiếng Nga – Bài 1 đến Bài 5</title>
-<style>
-*{box-sizing:border-box}body{margin:0;background:#f3f6f8;color:#203040;font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif}
-header{background:linear-gradient(135deg,#17354a,#176b91);color:#fff;text-align:center;padding:34px 16px}
-header h1{font-size:clamp(27px,5vw,40px);margin:0 0 6px}header p{margin:0;color:#e2f1f7}
-main{max-width:1000px;margin:22px auto;padding:0 16px 40px}.intro{background:#fff;border:1px solid #d5e1e7;border-radius:14px;padding:16px;margin-bottom:18px}
-h2{font-size:21px;margin:24px 0 12px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
-.card{display:block;text-decoration:none;color:inherit;background:#fff;border:1px solid #d5e1e7;border-radius:14px;padding:18px;box-shadow:0 3px 12px #17354a08}
-.card:hover{border-color:#8bbbd2;transform:translateY(-2px)}.tag{display:inline-block;background:#eaf4f8;color:#176b91;border-radius:99px;padding:4px 10px;font-size:12px;font-weight:700}
-h3{margin:10px 0 4px}.card p{margin:0;color:#64748b;font-size:14px}footer{text-align:center;color:#64748b;font-size:13px;padding:20px}
-</style></head><body>
-<header><h1>HỌC TIẾNG NGA</h1><p>Hệ thống học tập · Урок 1–5 · Từ vựng · Ngữ pháp · Phát âm</p></header>
-<main>
-<div class="intro"><strong>Chào mừng bạn!</strong> Chọn bài học để xem nội dung. Các bài 1–5 đã được đưa về giao diện chung theo bố cục tham chiếu Bài 4, có điều hướng giữa các bài và phần bổ sung cặp phụ âm hữu thanh – vô thanh.</div>
-<h2>Bài học</h2><section class="grid">
-<a class="card" href="bai-1.html"><span class="tag">УРОК 1</span><h3>Bài 1</h3><p>Từ vựng, bảng chữ cái, phát âm và cụm từ thực hành.</p></a>
-<a class="card" href="bai-2.html"><span class="tag">УРОК 2</span><h3>Bài 2</h3><p>Từ vựng, flashcard, ngữ pháp, biến cách và hội thoại.</p></a>
-<a class="card" href="bai-3.html"><span class="tag">УРОК 3</span><h3>Bài 3</h3><p>Đại từ nhân xưng, sở hữu, giống danh từ và từ vựng.</p></a>
-<a class="card" href="bai-4.html"><span class="tag">УРОК 4</span><h3>Bài 4</h3><p>Ч, Щ, cứng – mềm, Где?, mệnh lệnh và từ vựng.</p></a>
-<a class="card" href="bai-5.html"><span class="tag">УРОК 5</span><h3>Bài 5</h3><p>Số nhiều, sở hữu, Чей?, Кто он? và знать.</p></a>
-</section>
-<h2>Ôn tập và thực hành</h2><section class="grid">
-<a class="card" href="tong-on.html"><span class="tag">TỔNG ÔN</span><h3>Tổng hợp Bài 1–5</h3><p>Từ vựng có đánh dấu trọng âm, ngữ pháp và câu ví dụ.</p></a>
-<a class="card" href="game-tu-vung.html"><span class="tag">GAME</span><h3>Game từ vựng</h3><p>Nghe từ, xem nghĩa, luyện phát âm và điền chữ cái.</p></a>
-</section></main><footer>Học tiếng Nga · Website học tập cá nhân</footer></body></html>
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Học tiếng Nga · Bài 1–5</title><style>
+/* Russian course visual system */
+:root{--ink:#17243b;--muted:#66748b;--paper:#f5f7fc;--line:#e2e8f2;--blue:#3159c9;--blue2:#6b8cff;--gold:#f2b84b;--mint:#dff5ed;--rose:#fff0ed}
+html{scroll-behavior:smooth;background:var(--paper)}
+body{background:radial-gradient(circle at 92% 4%,rgba(107,140,255,.13),transparent 23rem),radial-gradient(circle at 3% 28%,rgba(242,184,75,.12),transparent 20rem),var(--paper)!important;color:var(--ink)!important;font-family:Inter,"Segoe UI",system-ui,sans-serif!important;line-height:1.72!important}
+main.wrap,.wrap{max-width:1120px!important;margin:0 auto!important;padding:24px clamp(14px,3vw,32px) 70px!important}
+header{position:relative;overflow:hidden;background:linear-gradient(120deg,#172c59 0%,#3159c9 58%,#6d88e8 100%)!important;color:#fff!important;border-radius:28px!important;padding:36px clamp(22px,5vw,54px)!important;margin:14px auto 24px!important;box-shadow:0 18px 45px rgba(31,57,112,.18)!important}
+header:before{content:"А Б В Г Д";position:absolute;right:3%;top:5%;font-size:clamp(36px,8vw,100px);font-weight:900;letter-spacing:.12em;color:rgba(255,255,255,.09);white-space:nowrap;transform:rotate(-8deg);pointer-events:none}
+header:after{content:"";position:absolute;width:210px;height:210px;border:1px solid rgba(255,255,255,.2);border-radius:50%;right:8%;bottom:-130px;box-shadow:0 0 0 24px rgba(255,255,255,.04),0 0 0 48px rgba(255,255,255,.035)}
+header h1,header p,header .subtitle{position:relative;z-index:1;color:#fff!important}
+header h1{font-size:clamp(28px,4vw,46px)!important;line-height:1.15!important;letter-spacing:-.035em}
+header p{max-width:720px;opacity:.9}
+nav,.toc,nav.toc{position:sticky;top:8px;z-index:20;background:rgba(255,255,255,.9)!important;backdrop-filter:blur(14px);border:1px solid var(--line)!important;border-radius:16px!important;padding:10px 14px!important;box-shadow:0 8px 24px rgba(25,42,78,.06)}
+nav a,.toc a{color:#3159c9!important;font-weight:650;text-decoration:none!important}
+nav a:hover,.toc a:hover{color:#172c59!important;text-decoration:underline!important}
+section,.panel,.card,.lesson-card,.sound-pair-section,.vocab-card{background:#fff!important;border:1px solid var(--line)!important;border-radius:20px!important;padding:clamp(18px,2.5vw,28px)!important;margin:18px 0!important;box-shadow:0 10px 28px rgba(31,49,86,.045)!important}
+h2{color:#24448f!important;font-size:clamp(22px,2.5vw,29px)!important;letter-spacing:-.02em;border-bottom:2px solid #eaf0ff;padding-bottom:10px}
+h3{color:#3159c9!important;font-size:19px!important}
+p{color:#34435a}
+table{border-collapse:separate!important;border-spacing:0!important;width:100%;overflow:hidden;border:1px solid var(--line);border-radius:14px}
+th{background:#edf2ff!important;color:#24448f!important;font-weight:750}
+td,th{padding:11px 13px!important;border-bottom:1px solid #e9edf5!important}
+tr:last-child td{border-bottom:0!important}
+tbody tr:nth-child(even){background:#f8faff}
+button,.btn{border:0!important;border-radius:12px!important;background:linear-gradient(120deg,#3159c9,#5478e4)!important;color:white!important;padding:10px 16px!important;font-weight:700!important;box-shadow:0 5px 13px rgba(49,89,201,.16);cursor:pointer}
+button:hover,.btn:hover{filter:brightness(1.06);transform:translateY(-1px)}
+input,select,textarea{border:1px solid #d9e1ef!important;border-radius:11px!important;padding:10px 12px!important;background:#fff!important;color:var(--ink)!important}
+img{max-width:100%;height:auto;border-radius:14px}
+a{color:#3159c9}
+.badge,.tag{border-radius:999px;background:#edf2ff;color:#3159c9;padding:4px 10px;font-weight:700}
+hr{border:0;border-top:1px solid var(--line);margin:24px 0}
+@media(max-width:700px){header{border-radius:20px!important;margin:8px!important;padding:26px 20px!important}.wrap,main.wrap{padding:12px 12px 50px!important}nav,.toc{position:relative;top:auto;overflow-x:auto}section,.panel,.card{border-radius:16px!important;padding:16px!important}table{display:block;overflow-x:auto;white-space:nowrap}}
+ .wrap{max-width:1100px;margin:auto;padding:24px}.hero{background:linear-gradient(120deg,#172c59,#3159c9,#728be8);color:#fff;border-radius:28px;padding:48px;position:relative;overflow:hidden}.hero h1{font-size:clamp(32px,5vw,54px);line-height:1.1;color:#fff}.hero p{color:#eef2ff}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:24px}.tile{display:block;background:#fff;border:1px solid #e2e8f2;border-radius:20px;padding:24px;text-decoration:none;box-shadow:0 10px 25px #20385c0d}.tile b{font-size:22px;color:#24448f}.tile span{display:block;color:#66748b;margin-top:6px}.symbol{font-size:32px;margin-bottom:12px}@media(max-width:600px){.hero{padding:28px 22px}}</style></head><body><main class="wrap"><header class="hero"><p>РУССКИЙ ЯЗЫК · УРОКИ 1–5</p><h1>Học tiếng Nga<br>từ những bước đầu tiên</h1><p>Từ vựng · Phát âm · Ngữ pháp · Luyện tập</p></header><div class="grid"><a class="tile" href="bai-1.html"><div class="symbol">🔤</div><b>Bài 1 · Урок 1</b><span>Mở bài học và luyện tập</span></a><a class="tile" href="bai-2.html"><div class="symbol">📚</div><b>Bài 2 · Урок 2</b><span>Mở bài học và luyện tập</span></a><a class="tile" href="bai-3.html"><div class="symbol">🏫</div><b>Bài 3 · Урок 3</b><span>Mở bài học và luyện tập</span></a><a class="tile" href="bai-4.html"><div class="symbol">👨‍👩‍👧</div><b>Bài 4 · Урок 4</b><span>Mở bài học và luyện tập</span></a><a class="tile" href="bai-5.html"><div class="symbol">🌍</div><b>Bài 5 · Урок 5</b><span>Mở bài học và luyện tập</span></a><a class="tile" href="tong-on.html"><div class="symbol">🧠</div><b>Tổng ôn Bài 1–5</b><span>Ôn tập kiến thức trọng tâm</span></a><a class="tile" href="game-tu-vung.html"><div class="symbol">🎮</div><b>Trò chơi từ vựng</b><span>Luyện nghe, hiểu nghĩa và chính tả</span></a></div></main></body></html>
