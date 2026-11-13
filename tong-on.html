@@ -71,6 +71,35 @@ button:hover{transform:translateY(-1px)}
 html body nav, html body .toc, html body nav.toc, html body .site-nav, html body header nav {position:relative!important;top:auto!important;bottom:auto!important;left:auto!important;right:auto!important;inset:auto!important;z-index:1!important;transform:none!important;filter:none!important;backdrop-filter:none!important;}
 html body th{position:static!important;top:auto!important;}
 </style>
+<style>
+/* Vocabulary table refresh: compact, readable, and responsive */
+.vocab-desktop{width:100%;max-width:100%;overflow:visible;border:0;border-radius:16px}
+.vocab-table{width:100%!important;min-width:0!important;table-layout:fixed;border-collapse:separate!important;border-spacing:0!important;font-size:clamp(12px,1.15vw,14px)!important;background:#fff;border:1px solid #e1e8f3!important;border-radius:16px;overflow:hidden}
+.vocab-table th,.vocab-table td{padding:clamp(7px,.85vw,12px)!important;white-space:normal!important;overflow-wrap:anywhere;word-break:normal;vertical-align:middle}
+.vocab-table thead th{position:static!important;top:auto!important}
+.vocab-table th:nth-child(1),.vocab-table td:nth-child(1){width:5%;text-align:center}
+.vocab-table th:nth-child(2),.vocab-table td:nth-child(2){width:15%}
+.vocab-table th:nth-child(3),.vocab-table td:nth-child(3){width:17%}
+.vocab-table th:nth-child(4),.vocab-table td:nth-child(4){width:23%}
+.vocab-table th:nth-child(5),.vocab-table td:nth-child(5){width:15%}
+.vocab-table th:nth-child(6),.vocab-table td:nth-child(6){width:15%}
+.vocab-table th:nth-child(7),.vocab-table td:nth-child(7){width:10%;text-align:center}
+.vocab-table td.ru{font-size:clamp(14px,1.35vw,17px)!important;white-space:normal!important;overflow-wrap:anywhere}
+.vocab-table td.pron{white-space:normal!important;overflow-wrap:anywhere;color:#2459a6!important;font-weight:700}
+.vocab-table tbody tr:nth-child(even){background:#f5f8ff}
+.vocab-table tbody tr:hover{background:#edf3ff}
+.vocab-table .audio-btn{min-height:36px;padding:6px 9px!important;font-size:12px!important;white-space:nowrap}
+.vocab-cards{display:none}
+.vcard{min-width:0;margin:0!important;padding:15px!important;border:1px solid #e1e8f3!important;border-radius:15px!important;background:linear-gradient(145deg,#fff,#f8faff)!important;box-shadow:0 5px 16px rgba(34,57,103,.055)}
+.vcard .word{font-size:21px!important;line-height:1.35}.vcard p{margin:7px 0;overflow-wrap:anywhere}
+.vcard .meta span{border-radius:999px;background:#edf2ff;color:#3159a6;padding:4px 9px}.vcard .audio-btn{min-width:100px}
+.table-wrap{width:100%;max-width:100%;min-width:0;overflow-x:auto}
+table:not(.vocab-table){width:100%;max-width:100%;table-layout:auto}
+table:not(.vocab-table) th,table:not(.vocab-table) td{overflow-wrap:anywhere;word-break:normal;white-space:normal}
+@media(max-width:920px){.vocab-desktop{display:none!important}.vocab-cards{display:grid!important;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));gap:12px}}
+@media(max-width:600px){.vocab-cards{grid-template-columns:minmax(0,1fr)!important;gap:10px}.vcard{padding:13px!important}.vcard .word{font-size:20px!important}.table-wrap:not(.vocab-desktop){overflow:visible;border:0;border-radius:0}table:not(.vocab-table){display:block;width:100%;border:0!important;border-radius:0!important;overflow:visible!important;border-collapse:separate!important}table:not(.vocab-table) thead{display:none}table:not(.vocab-table) tbody{display:grid;gap:10px;width:100%}table:not(.vocab-table) tr{display:grid;grid-template-columns:minmax(0,1fr);width:100%;border:1px solid #e1e8f3;border-radius:12px;overflow:hidden;background:#fff!important;box-shadow:0 3px 10px rgba(31,49,86,.035)}table:not(.vocab-table) td{display:grid;grid-template-columns:minmax(92px,34%) minmax(0,1fr);gap:9px;padding:9px 11px!important;border-bottom:1px solid #edf1f7!important}table:not(.vocab-table) td:last-child{border-bottom:0!important}table:not(.vocab-table) td:before{content:attr(data-label);font-size:12px;font-weight:750;color:#52658a;overflow-wrap:anywhere}}
+@media(max-width:360px){.vcard .meta span{font-size:11px}table:not(.vocab-table) td{grid-template-columns:minmax(78px,32%) minmax(0,1fr);gap:7px;padding:8px!important}}
+</style>
 </head><body>
 <header class="hero"><div class="wrap"><h1>TỔNG ÔN TIẾNG NGA – УРО́КИ 1–5</h1><p>Hệ thống hóa ngữ pháp, câu mẫu và toàn bộ danh sách từ vựng từ 5 file HTML, đối chiếu với giáo trình PDF 75 trang.</p><div class="badges"><span class="badge">5 bài học</span><span class="badge">288 mục từ (có bổ sung từ PDF)</span><span class="badge">Tra cứu &amp; lọc</span><span class="badge">Nghe tiếng Nga ru-RU</span><span class="badge">Dùng ngoại tuyến</span></div></div></header>
 <nav><div class="wrap"><a href="#map">Tổng quan</a><a href="#grammar">Ngữ pháp</a><a href="#sentences">Câu mẫu</a><a href="#vocabulary">Từ vựng</a><a href="#flashcards">Flashcard</a><a href="#quiz">Kiểm tra</a><a href="#sources">Đối chiếu nguồn</a><a href="#voiced-unvoiced">Phụ âm hữu thanh – vô thanh</a></div></nav>
@@ -171,7 +200,7 @@ html body th{position:static!important;top:auto!important;}
 </section>
 <section id="vocabulary"><h2>Toàn bộ từ vựng Bài 1–5</h2><p class="lead">Tổng cộng 288 mục: 262 mục từ danh sách 5 file HTML (21 + 55 + 47 + 65 + 74) và 26 mục bổ sung được nhận diện trong các bài đọc / nhóm từ và hội thoại của PDF. Giữ lại mục lặp giữa các bài để bạn thấy từ nào được ôn lại và bổ sung cách dùng.</p>
 <div class="controls no-print"><input id="vSearch" placeholder="Tìm từ tiếng Nga hoặc nghĩa tiếng Việt…" type="search"/><select id="vLesson"><option value="">Tất cả bài</option><option value="1">Bài 1</option><option value="2">Bài 2</option><option value="3">Bài 3</option><option value="4">Bài 4</option><option value="5">Bài 5</option></select><select id="vGender"><option value="">Tất cả giống / loại</option><option value="он">Giống đực – он</option><option value="она́">Giống cái – она́</option><option value="оно́">Giống trung – оно́</option><option value="мн.">Chỉ dùng số nhiều</option><option value="Đại từ">Đại từ</option><option value="Không áp dụng">Từ loại khác</option></select><button class="secondary" id="vReset">Xóa bộ lọc</button></div><p class="small" id="vCount"></p>
-<div class="table-wrap vocab-desktop"><table class="vocab-table"><thead><tr><th>#</th><th>Từ tiếng Nga</th><th>Phiên âm Latin</th><th>Nghĩa tiếng Việt</th><th>Giống / loại</th><th>Số nhiều</th><th>Câu ví dụ</th><th>Nghe</th></tr></thead><tbody id="vBody"></tbody></table></div><div class="vocab-cards" id="vCards"></div>
+<div class="table-wrap vocab-desktop"><table class="vocab-table"><thead><tr><th>#</th><th>Từ tiếng Nga</th><th>Phiên âm Latin</th><th>Nghĩa tiếng Việt</th><th>Giống / loại</th><th>Số nhiều</th><th>Nghe</th></tr></thead><tbody id="vBody"></tbody></table></div><div class="vocab-cards" id="vCards"></div>
 <div class="note"><b>Quy ước phiên âm:</b> Tất cả mục từ được trình bày bằng phiên âm Latin có phân tách âm tiết; âm tiết viết IN HOA biểu thị trọng âm. Đây là cách ghi hỗ trợ người học, không thay thế việc nghe và bắt chước phát âm tiếng Nga chuẩn.</div>
 </section>
 <section id="flashcards"><h2>Flashcard ôn từ nhanh</h2><p class="muted">Thẻ lấy từ toàn bộ danh sách 262 mục. Bạn có thể lọc từ vựng trước, sau đó mở flashcard từ danh sách đã lọc.</p><div class="flash"><div class="sub" id="fcNo">Thẻ 1</div><div class="big" id="fcWord">Приве́т</div><div class="meaning" id="fcMeaning">Bấm “Hiện nghĩa” để xem đáp án.</div><div class="controls no-print" style="justify-content:center"><button id="fcSpeak">▶ Nghe</button><button class="secondary" id="fcReveal">Hiện nghĩa</button><button id="fcNext">Từ tiếp theo →</button></div></div></section>
@@ -265,10 +294,10 @@ for(let lesson=1;lesson<=5;lesson++){
 addSpeakHandlers(groups);
 const vSearch=document.getElementById('vSearch'),vLesson=document.getElementById('vLesson'),vGender=document.getElementById('vGender'),vBody=document.getElementById('vBody'),vCards=document.getElementById('vCards'),vCount=document.getElementById('vCount');
 function norm(s){return String(s||'').toLocaleLowerCase('vi').normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
-function filteredWords(){const q=norm(vSearch.value.trim());return VOCAB.filter(w=>{const hay=norm([w.ru,w.pron,w.meaning,w.gender,w.kind,w.plural,w.example].join(' '));const g=String(w.gender||'');let gm=!vGender.value;if(vGender.value){if(vGender.value==='Không áp dụng')gm=(g==='Không áp dụng'||g==='') ;else gm=g.toLowerCase().includes(vGender.value.toLowerCase());}return (!q||hay.includes(q))&&(!vLesson.value||String(w.lesson)===vLesson.value)&&gm;});}
+function filteredWords(){const q=norm(vSearch.value.trim());return VOCAB.filter(w=>{const hay=norm([w.ru,w.pron,w.meaning,w.gender,w.kind,w.plural].join(' '));const g=String(w.gender||'');let gm=!vGender.value;if(vGender.value){if(vGender.value==='Không áp dụng')gm=(g==='Không áp dụng'||g==='') ;else gm=g.toLowerCase().includes(vGender.value.toLowerCase());}return (!q||hay.includes(q))&&(!vLesson.value||String(w.lesson)===vLesson.value)&&gm;});}
 function renderVocab(){const rows=filteredWords();vCount.textContent=`Hiển thị ${rows.length} / ${VOCAB.length} mục từ.`;
- vBody.innerHTML=rows.map((w,i)=>`<tr><td>${i+1}</td><td class="ru">${esc(w.ru)}</td><td class="pron">${esc(w.pron||'—')}</td><td>${esc(w.meaning)}</td><td>${esc(w.gender||'—')}</td><td>${esc(w.plural||'—')}</td><td>${esc(w.example||'—')}</td><td><button class="audio-btn" data-speak="${esc(w.ru)}">▶ Nghe</button></td></tr>`).join('');
- vCards.innerHTML=rows.map((w,i)=>`<article class="vcard"><div class="meta"><span>${esc(w.gender||'Chưa phân loại')}</span></div><div class="word">${esc(w.ru)}</div><p>${esc(w.meaning)}</p><p class="small"><b>Phiên âm Latin:</b> ${esc(w.pron||'—')}</p><p class="small"><b>Số nhiều:</b> ${esc(w.plural||'—')}</p>${w.example?`<p class="small"><b>Ví dụ:</b> ${esc(w.example)}</p>`:''}<p><button class="audio-btn" data-speak="${esc(w.ru)}">▶ Nghe</button></p></article>`).join('');
+ vBody.innerHTML=rows.map((w,i)=>`<tr><td>${i+1}</td><td class="ru">${esc(w.ru)}</td><td class="pron">${esc(w.pron||'—')}</td><td>${esc(w.meaning)}</td><td>${esc(w.gender||'—')}</td><td>${esc(w.plural||'—')}</td><td><button class="audio-btn" data-speak="${esc(w.ru)}">▶ Nghe</button></td></tr>`).join('');
+ vCards.innerHTML=rows.map((w,i)=>`<article class="vcard"><div class="meta"><span>${esc(w.gender||'Chưa phân loại')}</span></div><div class="word">${esc(w.ru)}</div><p>${esc(w.meaning)}</p><p class="small"><b>Phiên âm Latin:</b> ${esc(w.pron||'—')}</p><p class="small"><b>Số nhiều:</b> ${esc(w.plural||'—')}</p><p><button class="audio-btn" data-speak="${esc(w.ru)}">▶ Nghe</button></p></article>`).join('');
  addSpeakHandlers(vBody);addSpeakHandlers(vCards);
 }
 [vSearch,vLesson,vGender].forEach(el=>el.addEventListener('input',renderVocab));document.getElementById('vReset').addEventListener('click',()=>{vSearch.value='';vLesson.value='';vGender.value='';renderVocab();});renderVocab();
@@ -279,4 +308,5 @@ function refreshFlashPool(){const r=filteredWords();fcPool=r.length?r:VOCAB.slic
 [vSearch,vLesson,vGender].forEach(el=>el.addEventListener('change',refreshFlashPool));vSearch.addEventListener('input',refreshFlashPool);showFlash();
 document.getElementById('grade').addEventListener('click',()=>{let score=0,total=0,detail=[];document.querySelectorAll('.quiz-q').forEach((q,i)=>{total++;const a=q.querySelector('input:checked');const ok=a&&a.value===q.dataset.answer;if(ok)score++;detail.push(`<p>${ok?'✅':'❌'} Câu ${i+1}: ${esc(q.dataset.exp)}</p>`);});document.getElementById('quizResult').textContent=`Kết quả: ${score}/${total} câu đúng (${Math.round(score/total*100)}%).`;document.getElementById('quizExp').innerHTML=detail.join('');});
 document.getElementById('quizReset').addEventListener('click',()=>{document.querySelectorAll('.quiz-q input').forEach(x=>x.checked=false);document.getElementById('quizResult').textContent='';document.getElementById('quizExp').innerHTML='';});
-</script></body></html>
+</script><script>document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('table:not(.vocab-table)').forEach(table=>{const headRow=table.querySelector('thead tr')||table.querySelector('tr');if(!headRow)return;const labels=[...headRow.children].map(cell=>cell.textContent.trim());table.querySelectorAll('tbody tr').forEach(row=>{[...row.children].forEach((cell,index)=>{if(cell.tagName.toLowerCase()==='td'&&labels[index])cell.setAttribute('data-label',labels[index]);});});});});</script>
+</body></html>

@@ -93,11 +93,87 @@ button.secondary,.bottom .actions button.secondary{background:#e9eef8!important;
 button.ghost,.bottom .actions button.ghost{background:#fff!important;color:#3159c9!important;border:1px solid #cbd7ef!important;box-shadow:none!important}
 button.danger{background:#fff0ef!important;color:#a51f1a!important;border:1px solid #f1cbc7!important;box-shadow:none!important}
 </style>
+
+<style>
+.quiz-panel{border:1px solid #dbe5f2;background:linear-gradient(145deg,#fff,#f7faff)}
+.quiz-head{display:flex;justify-content:space-between;gap:14px;align-items:flex-start}
+.quiz-head h2{font-size:clamp(20px,3vw,27px)}
+.quiz-count{white-space:nowrap;border-radius:999px;background:#eaf1ff;color:#3159b8;font-weight:800;padding:7px 12px}
+.quiz-select-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:18px 0}
+.quiz-select-grid label{font-size:13px;font-weight:750;color:#52627b}
+.quiz-select-grid select,.quiz-answer{display:block;width:100%;margin-top:6px;padding:12px;border:1px solid #d7e1ef;border-radius:11px;background:white;color:#1e293b;font:inherit;min-width:0}
+.quiz-actions{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:15px}
+.quiz-work{border:1px solid #dfe7f2;background:#fff;border-radius:15px;padding:clamp(14px,3vw,22px);min-height:190px}
+.quiz-empty{text-align:center;padding:24px 8px}
+.quiz-meta{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;color:#64748b;font-size:13px;font-weight:700}
+.quiz-track{height:8px;background:#e8eef7;border-radius:99px;overflow:hidden;margin:10px 0 18px}
+.quiz-track span{display:block;height:100%;width:0;background:linear-gradient(90deg,#2563a6,#6285e8);transition:width .2s}
+.quiz-question{font-size:clamp(19px,3vw,25px);font-weight:800;line-height:1.45;color:#17365d;margin:12px 0 18px}
+.quiz-options{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.quiz-option{min-height:52px;text-align:left;background:#f5f8ff;color:#24334c;border:1px solid #dbe5f2;border-radius:11px;padding:12px}
+.quiz-option.chosen{background:#e4edff;border:2px solid #3159c9;color:#173b9a}
+.quiz-option.good{background:#e8f7ef;border-color:#16845b;color:#126442}
+.quiz-option.bad{background:#fff0ef;border-color:#b42318;color:#9c2118}
+.quiz-feedback{margin-top:14px;padding:12px;border-radius:11px;background:#f4f7fb;color:#475569;line-height:1.55}
+.quiz-feedback.good{background:#eaf8f0;color:#126442}
+.quiz-feedback.bad{background:#fff1f0;color:#9c2118}
+.quiz-answer{min-height:54px}
+.quiz-nav{display:flex;gap:8px;justify-content:space-between;flex-wrap:wrap;margin-top:16px}
+.quiz-summary-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin:15px 0}
+.quiz-summary-grid div{padding:14px;border-radius:12px;background:#f0f4ff;text-align:center}
+.quiz-summary-grid b{display:block;font-size:27px;color:#3159b8}
+.quiz-summary-grid span{font-size:13px;color:#64748b}
+.quiz-review{display:grid;gap:9px;margin-top:14px}
+.quiz-review article{border:1px solid #e0e7f0;border-radius:11px;padding:12px}
+.quiz-review article b{display:block;color:#17365d;margin-bottom:5px}
+.quiz-review small{display:block;color:#64748b;margin-top:5px}
+@media(max-width:650px){.quiz-select-grid,.quiz-options{grid-template-columns:1fr}.quiz-head{align-items:center}.quiz-summary-grid{gap:6px}.quiz-summary-grid div{padding:10px 5px}.quiz-summary-grid b{font-size:23px}.quiz-nav button{flex:1}.quiz-answer{font-size:16px}}
+</style>
+
 </head><body>
 <header class="hero"><div class="wrap"><h1>🎮 Game từ vựng tiếng Nga</h1><p>Ôn luyện từ vựng Bài 1–5 · Nghe · Hiểu nghĩa · Phát âm · Chính tả.</p><div class="stats"><span class="pill" id="totalPill">288 mục từ</span><span class="pill" id="roundPill">Lượt: 0</span><span class="pill" id="accuracyPill">Đúng: 0%</span></div></div></header>
 <main class="wrap">
 <section class="panel"><div class="filters"><label>Chủ đề<select id="theme"><option value="all">Tất cả chủ đề</option></select></label><label>Phạm vi bài học<select id="lesson"><option value="all">Bài 1–5</option><option value="1">Bài 1</option><option value="2">Bài 2</option><option value="3">Bài 3</option><option value="4">Bài 4</option><option value="5">Bài 5</option></select></label></div><div class="topicchips" id="topicChips" style="margin-top:12px"></div><div aria-label="Chế độ luyện tập" class="modes" role="tablist"><button class="mode active" data-mode="listen">🔊 Nghe &amp; chọn nghĩa</button><button class="mode" data-mode="meaning">💡 Nghĩa → từ Nga</button><button class="mode" data-mode="speak">🎙️ Phát âm</button><button class="mode" data-mode="fill">✍️ Điền chữ</button></div>
 <div class="progressrow"><span id="progressLabel">Câu 1</span><span id="setLabel">Đang luyện: tất cả từ</span></div><div class="scoreline"><span id="progressBar"></span></div><div aria-live="polite" class="gamebox" id="gamebox"></div><div class="bottom" style="margin-top:13px"><span class="tiny" id="status">Chọn chủ đề và bắt đầu luyện tập.</span><div class="actions" style="margin:0"><button class="secondary" id="skipBtn">Bỏ qua</button><button id="backBtn" class="secondary">← Trở lại</button><button id="nextBtn">Câu tiếp theo →</button><button id="finishBtn" class="ghost">Kết thúc</button></div></div></section>
+
+<section class="panel quiz-panel" id="grammarQuiz">
+  <div class="quiz-head">
+    <div>
+      <div class="eyebrow">Bài tập tổng hợp Уро́ки 1–5</div>
+      <h2 style="margin:5px 0 4px;color:#17365d">📚 Gói bài tập ngữ pháp &amp; giao tiếp</h2>
+      <p class="hint" style="margin:0">50 câu hỏi gồm trắc nghiệm, tự luận và tự đặt câu hỏi bằng tiếng Nga. Có chấm điểm và giải thích đáp án.</p>
+    </div>
+    <span class="quiz-count">50 câu</span>
+  </div>
+  <div class="quiz-select-grid">
+    <label>Chọn gói bài tập
+      <select id="quizPack">
+        <option value="all">Tất cả 50 câu</option>
+        <option value="mc">Trắc nghiệm – 25 câu</option>
+        <option value="short">Tự luận – 15 câu</option>
+        <option value="ask">Tự đặt câu hỏi – 10 câu</option>
+      </select>
+    </label>
+    <label>Phạm vi kiến thức
+      <select id="quizLesson">
+        <option value="all">Tổng hợp Bài 1–5</option>
+        <option value="1">Bài 1</option><option value="2">Bài 2</option><option value="3">Bài 3</option><option value="4">Bài 4</option><option value="5">Bài 5</option>
+      </select>
+    </label>
+  </div>
+  <div class="quiz-actions">
+    <button id="quizStart">Bắt đầu làm bài</button>
+    <button class="secondary" id="quizReset">Đặt lại</button>
+  </div>
+  <div id="quizWork" class="quiz-work">
+    <div class="quiz-empty">
+      <div style="font-size:38px">✍️</div>
+      <b>Chọn gói bài tập để bắt đầu</b>
+      <p class="hint">Bạn có thể làm từng dạng riêng hoặc làm cả 50 câu. Với câu tự luận, hãy nhập câu trả lời bằng tiếng Nga hoặc tiếng Việt theo yêu cầu.</p>
+    </div>
+  </div>
+</section>
+
 <section class="panel"><div class="bottom"><div><b>Tiến độ luyện tập</b><div class="tiny">Thống kê trong phiên hiện tại</div></div><button class="ghost" id="resetBtn">Đặt lại điểm</button></div><div class="stats" style="margin-top:12px"><span class="topic">Đã làm: <b id="done">0</b></span><span class="topic">Đúng: <b id="right">0</b></span><span class="topic">Cần ôn: <b id="missed">0</b></span></div></section>
 <section class="panel"><b>Hướng dẫn sử dụng phát âm</b><ul><li><b>Nghe phát âm:</b> dùng giọng tiếng Nga (ru-RU) có sẵn trong trình duyệt/hệ điều hành.</li><li><b>Chấm phát âm:</b> bật micro, đọc từ tiếng Nga đang hiển thị. Hệ thống so sánh bản nhận dạng giọng nói với từ đích và quy đổi thành điểm tương đồng 0–100; đây là điểm nhận dạng, không phải đánh giá ngữ âm chuyên sâu.</li><li><b>Điền chữ:</b> nhập đầy đủ từ tiếng Nga; có thể bỏ dấu trọng âm khi gõ.</li></ul></section>
 </main>
@@ -142,4 +218,64 @@ function showSummary(){stopMic();for(let i=0;i<deck.length;i++){if(!answerRecord
 function goBack(){stopMic();if(deckIndex>0){deckIndex-=1;current=deck[deckIndex];const rec=answerRecords.get(deckIndex);answered=!!rec;selectedChoice=rec?.selectedChoice??null;choiceOptions=rec?.choiceOptions||choiceDeck.get(deckIndex)||shuffle([current,...shuffle(pool.filter(x=>x!==current)).slice(0,3)]);choiceDeck.set(deckIndex,choiceOptions);round=deckIndex+1;render();$('backBtn').disabled=deckIndex===0;$('nextBtn').textContent=deckIndex===deck.length-1?'Hoàn thành →':'Câu tiếp theo →'}}
 document.querySelectorAll('.mode').forEach(b=>b.onclick=()=>{mode=b.dataset.mode;document.querySelectorAll('.mode').forEach(x=>x.classList.toggle('active',x===b));stopMic();render()});$('theme').onchange=refreshPool;$('lesson').onchange=refreshPool;$('nextBtn').onclick=nextQuestion;$('skipBtn').onclick=nextQuestion;$('backBtn').onclick=goBack;$('finishBtn').onclick=showSummary;$('resetBtn').onclick=()=>{done=right=missed=round=0;missedWords.clear();seenWords.clear();answerRecords.clear();choiceDeck.clear();deckIndex=-1;updateStats();$('roundPill').textContent='Lượt: 0';pick()};
 refreshPool();
-</script></body></html>
+</script>
+<script>
+const QUIZ_DATA = [{"type": "mc", "lesson": 1, "prompt": "Tiếng Nga sử dụng bảng chữ cái gồm bao nhiêu chữ?", "choices": ["30 chữ", "32 chữ", "33 chữ", "36 chữ"], "answer": "33 chữ", "explain": "Bảng chữ cái Kirin tiếng Nga có 33 chữ."}, {"type": "mc", "lesson": 1, "prompt": "Tiếng Nga có bao nhiêu chữ nguyên âm?", "choices": ["6", "8", "10", "12"], "answer": "10", "explain": "10 nguyên âm: А, Е, Ё, И, О, У, Ы, Э, Ю, Я."}, {"type": "mc", "lesson": 1, "prompt": "Chữ Ь và Ъ có phải là nguyên âm không?", "choices": ["Có, cả hai", "Chỉ Ь", "Chỉ Ъ", "Không"], "answer": "Không", "explain": "Ь là dấu mềm, Ъ là dấu cứng; cả hai không phải nguyên âm."}, {"type": "mc", "lesson": 1, "prompt": "Đại từ Она́ có nghĩa là gì?", "choices": ["Tôi", "Cô ấy / bà ấy", "Chúng tôi", "Họ"], "answer": "Cô ấy / bà ấy", "explain": "Она́ là đại từ ngôi thứ ba số ít giống cái."}, {"type": "mc", "lesson": 1, "prompt": "Cấu trúc Э́то + danh từ thường dùng để làm gì?", "choices": ["Nói lời tạm biệt", "Giới thiệu hoặc xác định người/vật", "Hỏi thời gian", "Diễn tả quá khứ"], "answer": "Giới thiệu hoặc xác định người/vật", "explain": "Ví dụ: Э́то дом. – Đây là ngôi nhà."}, {"type": "mc", "lesson": 1, "prompt": "Câu hỏi Кто́? dùng để hỏi về điều gì?", "choices": ["Đồ vật", "Thời gian", "Người / sinh vật", "Địa điểm"], "answer": "Người / sinh vật", "explain": "Кто́? nghĩa là Ai?"}, {"type": "mc", "lesson": 1, "prompt": "Câu hỏi Что́? có nghĩa là gì?", "choices": ["Ở đâu?", "Cái gì?", "Khi nào?", "Của ai?"], "answer": "Cái gì?", "explain": "Что́? dùng để hỏi về đồ vật/sự vật."}, {"type": "mc", "lesson": 1, "prompt": "Danh từ kết thúc bằng -о hoặc -е thường thuộc giống nào?", "choices": ["Giống đực", "Giống cái", "Giống trung", "Luôn là số nhiều"], "answer": "Giống trung", "explain": "Đây là quy tắc nhận biết cơ bản; vẫn cần lưu ý ngoại lệ."}, {"type": "mc", "lesson": 1, "prompt": "Từ ночь (đêm) thuộc giống nào?", "choices": ["Giống đực", "Giống cái", "Giống trung", "Không có giống"], "answer": "Giống cái", "explain": "Ночь kết thúc bằng ь nhưng là danh từ giống cái."}, {"type": "mc", "lesson": 1, "prompt": "Từ сутки chỉ khoảng thời gian nào?", "choices": ["Một giờ", "Nửa ngày", "Một ngày đêm 24 giờ", "Một tuần"], "answer": "Một ngày đêm 24 giờ", "explain": "Сутки là danh từ chỉ trọn 24 giờ."}, {"type": "mc", "lesson": 2, "prompt": "Từ бу́ква có nghĩa là gì?", "choices": ["Âm", "Chữ cái", "Từ", "Âm tiết"], "answer": "Chữ cái", "explain": "Буква là chữ cái; звук là âm."}, {"type": "mc", "lesson": 2, "prompt": "Nguyên âm О khi không mang trọng âm thường có hiện tượng gì?", "choices": ["Đọc rõ như О có trọng âm", "Bị giảm âm", "Biến thành phụ âm", "Không được phát âm"], "answer": "Bị giảm âm", "explain": "Nguyên âm không nhấn, đặc biệt О, thường bị giảm âm trong lời nói."}, {"type": "mc", "lesson": 2, "prompt": "Danh từ chỉ người và động vật thường thuộc nhóm nào?", "choices": ["Неодушевлённые", "Одушевлённые", "Средний род", "Наречия"], "answer": "Одушевлённые", "explain": "Одушевлённые là danh từ chỉ sinh vật."}, {"type": "mc", "lesson": 2, "prompt": "Dạng số nhiều thông thường của стол là gì?", "choices": ["столы", "стола", "столи", "столья"], "answer": "столы", "explain": "Ví dụ trong giáo trình: стол – столы́."}, {"type": "mc", "lesson": 2, "prompt": "Dạng số nhiều của окно́ là gì?", "choices": ["окны", "окна", "окне", "окно́"], "answer": "окна", "explain": "Danh từ giống trung tận cùng -о thường chuyển thành -а trong dạng này."}, {"type": "mc", "lesson": 2, "prompt": "Trong câu Я иду́ в апте́ку, апте́ку đang ở cách nào?", "choices": ["Chủ cách", "Sinh cách", "Đối cách", "Công cụ cách"], "answer": "Đối cách", "explain": "В + đối cách diễn tả hướng đi đến nơi trong mẫu này."}, {"type": "mc", "lesson": 3, "prompt": "Khi nhóm có cả người nói, thường dùng đại từ nào?", "choices": ["они", "мы", "вы", "он"], "answer": "мы", "explain": "Мы nghĩa là chúng tôi/chúng ta; có người nói trong nhóm."}, {"type": "mc", "lesson": 3, "prompt": "Tính từ sở hữu мой thay đổi theo yếu tố nào?", "choices": ["Giới tính người sở hữu", "Giống và số của danh từ được sở hữu", "Thời gian", "Địa điểm"], "answer": "Giống và số của danh từ được sở hữu", "explain": "Ví dụ: мой дом, моя книга, моё окно, мои книги."}, {"type": "mc", "lesson": 3, "prompt": "Dạng đúng trước danh từ giống cái книга là gì?", "choices": ["мой книга", "моё книга", "моя книга", "мои книга"], "answer": "моя книга", "explain": "Моя hòa hợp với danh từ giống cái số ít."}, {"type": "mc", "lesson": 3, "prompt": "Các từ его́, её, и́х có đặc điểm gì?", "choices": ["Biến đổi theo giống", "Biến đổi theo số", "Không biến đổi", "Chỉ dùng với giống đực"], "answer": "Không biến đổi", "explain": "его, её, их giữ nguyên trước danh từ giống đực, cái, trung và số nhiều."}, {"type": "mc", "lesson": 4, "prompt": "Где́? dùng để hỏi điều gì?", "choices": ["Ai?", "Ở đâu?", "Khi nào?", "Của ai?"], "answer": "Ở đâu?", "explain": "Где́? nghĩa là Ở đâu?"}, {"type": "mc", "lesson": 4, "prompt": "Cặp phụ âm nào luôn mềm theo phần tổng ôn?", "choices": ["Ж và Ш", "Ч và Щ", "Ц và Ж", "Ш và Ц"], "answer": "Ч và Щ", "explain": "Ч và Щ luôn mềm; Щ là âm xát dài."}, {"type": "mc", "lesson": 4, "prompt": "Dạng lịch sự/số nhiều của Дай! là gì?", "choices": ["Даю!", "Дайте!", "Дашь!", "Дал!"], "answer": "Дайте!", "explain": "Mệnh lệnh: Дай! (ты) – Дайте! (вы)."}, {"type": "mc", "lesson": 5, "prompt": "Câu hỏi Чьё? dùng với danh từ thuộc nhóm nào?", "choices": ["Giống đực", "Giống cái", "Giống trung", "Số nhiều"], "answer": "Giống trung", "explain": "Ví dụ: Чьё письмо́? – Моё."}, {"type": "mc", "lesson": 5, "prompt": "Dạng chia đúng của знать với я là gì?", "choices": ["знаешь", "знает", "знаю", "знают"], "answer": "знаю", "explain": "Я зна́ю – tôi biết."}, {"type": "short", "lesson": 1, "prompt": "Dịch sang tiếng Việt: «Э́то ма́ма и па́па.»", "answers": ["Đây là mẹ và bố", "đây là bố và mẹ"], "explain": "Э́то = đây là; ма́ма = mẹ; па́па = bố."}, {"type": "short", "lesson": 1, "prompt": "Viết đại từ tiếng Nga tương ứng với “chúng tôi / chúng ta”.", "answers": ["мы", "мы́"], "explain": "Đáp án: мы́."}, {"type": "short", "lesson": 1, "prompt": "Viết câu tiếng Nga có nghĩa “Đây là ngôi nhà”.", "answers": ["это дом", "это дом."], "explain": "Mẫu Э́то + danh từ ở chủ cách."}, {"type": "short", "lesson": 2, "prompt": "Viết dạng số nhiều của кни́га.", "answers": ["книги", "кни́ги"], "explain": "Кни́га → кни́ги."}, {"type": "short", "lesson": 2, "prompt": "Viết dạng số nhiều đặc biệt của сту́л.", "answers": ["стулья", "сту́лья"], "explain": "Стул → стулья; đây là dạng số nhiều đặc biệt."}, {"type": "short", "lesson": 2, "prompt": "Dịch sang tiếng Nga: “Ở buổi sáng / vào buổi sáng”.", "answers": ["утром", "у́тром"], "explain": "У́тром là trạng từ thời gian, nghĩa là vào buổi sáng."}, {"type": "short", "lesson": 2, "prompt": "Viết dạng đúng của аптека sau giới từ в khi nói “đang ở hiệu thuốc”.", "answers": ["в аптеке", "в апте́ке"], "explain": "В аптеке diễn tả vị trí; danh từ ở giới cách."}, {"type": "short", "lesson": 3, "prompt": "Điền tính từ sở hữu: ___ кни́га (quyển sách của tôi).", "answers": ["моя книга", "моя кни́га"], "explain": "Кни́га là giống cái nên dùng моя."}, {"type": "short", "lesson": 3, "prompt": "Dịch sang tiếng Việt: «Их дом.»", "answers": ["nhà của họ", "ngôi nhà của họ"], "explain": "Их là đại từ sở hữu bất biến."}, {"type": "short", "lesson": 3, "prompt": "Viết đại từ “họ” trong tiếng Nga.", "answers": ["они", "они́"], "explain": "Они́ là đại từ ngôi thứ ba số nhiều."}, {"type": "short", "lesson": 4, "prompt": "Dịch sang tiếng Việt: «Где библиотека́?»", "answers": ["thư viện ở đâu", "ở đâu có thư viện", "thư viện ở đâu?"], "explain": "Где́? = ở đâu; библиотека́ = thư viện."}, {"type": "short", "lesson": 4, "prompt": "Viết dạng lịch sự của «Скажи́!» (hãy nói).", "answers": ["скажите", "скажите!", "скажите пожалуйста", "скажите, пожалуйста"], "explain": "Скажи́! (ты) → Скажи́те! (вы)."}, {"type": "short", "lesson": 5, "prompt": "Chia động từ знать với ты.", "answers": ["знаешь", "зна́ешь"], "explain": "Ты зна́ешь – bạn biết."}, {"type": "short", "lesson": 5, "prompt": "Dịch sang tiếng Việt: «Я не зна́ю.»", "answers": ["tôi không biết", "mình không biết"], "explain": "Не đứng trước động từ để tạo phủ định."}, {"type": "short", "lesson": 5, "prompt": "Viết dạng số nhiều của день.", "answers": ["дни", "дни́"], "explain": "День → дни́ là dạng số nhiều đặc biệt."}, {"type": "ask", "lesson": 1, "prompt": "Hãy đặt câu hỏi tiếng Nga để hỏi “Đây là cái gì?”", "answers": ["что это", "что это?", "что это такое"], "explain": "Mẫu cơ bản: Что́ э́то?"}, {"type": "ask", "lesson": 1, "prompt": "Hãy đặt câu hỏi tiếng Nga để hỏi “Đây là ai?”", "answers": ["кто это", "кто это?"], "explain": "Mẫu: Кто́ э́то?"}, {"type": "ask", "lesson": 2, "prompt": "Hãy đặt câu hỏi tiếng Nga với nghĩa “Khi nào?”.", "answers": ["когда", "когда?"], "explain": "Когда́? = Khi nào?"}, {"type": "ask", "lesson": 3, "prompt": "Hãy đặt câu hỏi thân mật “Bạn tên là gì?”.", "answers": ["как тебя зовут", "как тебя зовут?"], "explain": "Mẫu hỏi tên thân mật: Как тебя́ зову́т?"}, {"type": "ask", "lesson": 3, "prompt": "Hãy đặt câu hỏi “Anh ấy tên là gì?”.", "answers": ["как его зовут", "как его зовут?"], "explain": "Dùng его́ khi hỏi tên của anh ấy."}, {"type": "ask", "lesson": 3, "prompt": "Hãy đặt câu hỏi “Cô ấy tên là gì?”.", "answers": ["как ее зовут", "как её зовут", "как её зовут?"], "explain": "Dùng её khi hỏi tên của cô ấy."}, {"type": "ask", "lesson": 4, "prompt": "Hãy đặt câu hỏi “Thư viện ở đâu?”.", "answers": ["где библиотека", "где библиотека?"], "explain": "Где́ + địa điểm."}, {"type": "ask", "lesson": 4, "prompt": "Hãy viết lời yêu cầu lịch sự: “Xin hãy nói, thư viện ở đâu?”.", "answers": ["скажите пожалуйста где библиотека", "скажите, пожалуйста, где библиотека", "скажите пожалуйста где библиотека?"], "explain": "Dùng mệnh lệnh lịch sự Скажите́ và пожалуйста."}, {"type": "ask", "lesson": 5, "prompt": "Hãy đặt câu hỏi “Quyển sách này của ai?” với danh từ книга.", "answers": ["чья книга", "чья книга?"], "explain": "Книга là giống cái nên dùng Чья?"}, {"type": "ask", "lesson": 5, "prompt": "Hãy đặt câu hỏi “Bức thư của ai?” với danh từ письмо.", "answers": ["чье письмо", "чьё письмо", "чьё письмо?"], "explain": "Письмо́ là giống trung nên dùng Чьё?"}];
+(()=>{
+ const $q=id=>document.getElementById(id);
+ const normQ=s=>String(s||'').toLocaleLowerCase('ru').replace(/ё/g,'е').normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').replace(/[?!.,:;«»“”"'’]/g,'').replace(/\\s+/g,' ').trim();
+ let list=[],idx=0,answers=new Map(),chosen=null,checked=false;
+ const escQ=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ function start(){
+   const pack=$q('quizPack').value,lesson=$q('quizLesson').value;
+   list=QUIZ_DATA.filter(x=>(pack==='all'||x.type===pack)&&(lesson==='all'||String(x.lesson)===lesson));
+   idx=0;answers.clear();chosen=null;checked=false;
+   if(!list.length){$q('quizWork').innerHTML='<p>Không có câu hỏi trong lựa chọn này.</p>';return}
+   render();
+ }
+ function render(){
+   const q=list[idx],prev=answers.get(idx);
+   checked=!!prev;chosen=prev?.choice??null;
+   const pct=Math.round((idx+1)/list.length*100);
+   let body='';
+   if(q.type==='mc'){
+     body=`<div class="quiz-options">${q.choices.map((c,i)=>`<button class="quiz-option ${chosen===i?'chosen':''} ${checked&&c===q.answer?'good':''} ${checked&&chosen===i&&c!==q.answer?'bad':''}" data-qchoice="${i}" ${checked?'disabled':''}>${escQ(c)}</button>`).join('')}</div>`;
+   }else{
+     body=`<label class="hint" for="quizText">${q.type==='ask'?'Viết câu hỏi bằng tiếng Nga:':'Nhập câu trả lời:'}</label><input class="quiz-answer" id="quizText" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Nhập câu trả lời của bạn…" value="${escQ(prev?.text||'')}" ${checked?'disabled':''}>`;
+   }
+   const feedback=checked?`<div class="quiz-feedback ${prev.ok?'good':'bad'}"><b>${prev.ok?'Chính xác!':'Chưa chính xác.'}</b><br>Đáp án tham khảo: <strong>${escQ(q.type==='mc'?q.answer:q.answers[0])}</strong><br>${escQ(q.explain)}</div>`:'';
+   $q('quizWork').innerHTML=`<div class="quiz-meta"><span>Câu ${idx+1}/${list.length} · Bài ${q.lesson}</span><span>${answers.size} câu đã chấm</span></div><div class="quiz-track"><span style="width:${pct}%"></span></div><div class="eyebrow">${q.type==='mc'?'TRẮC NGHIỆM':q.type==='short'?'TỰ LUẬN':'TỰ ĐẶT CÂU HỎI'}</div><div class="quiz-question">${escQ(q.prompt)}</div>${body}${feedback}<div class="quiz-nav"><button class="secondary" id="quizPrev" ${idx===0?'disabled':''}>← Câu trước</button><div style="display:flex;gap:8px;flex:1;justify-content:flex-end;flex-wrap:wrap">${!checked?'<button id="quizCheck">Kiểm tra đáp án</button>':'<button id="quizNext">Câu tiếp theo →</button>'}<button class="ghost" id="quizFinish">Kết thúc</button></div></div>`;
+   $q('quizPrev').onclick=()=>{if(idx>0){idx--;render()}};
+   if(!checked){
+     if(q.type==='mc'){
+       document.querySelectorAll('[data-qchoice]').forEach(b=>b.onclick=()=>{chosen=Number(b.dataset.qchoice);document.querySelectorAll('[data-qchoice]').forEach((x,i)=>x.classList.toggle('chosen',i===chosen))});
+     }
+     $q('quizCheck').onclick=check;
+     if(q.type!=='mc')$q('quizText').addEventListener('keydown',e=>{if(e.key==='Enter')check()});
+   }else $q('quizNext').onclick=()=>{if(idx<list.length-1){idx++;render()}else summary()};
+   $q('quizFinish').onclick=summary;
+ }
+ function check(){
+   const q=list[idx];let text='',ok=false,choice=null;
+   if(q.type==='mc'){
+     if(chosen===null){alert('Hãy chọn một đáp án trước khi kiểm tra.');return}
+     choice=chosen;text=q.choices[chosen];ok=text===q.answer;
+   }else{
+     text=$q('quizText').value.trim();
+     if(!text){alert('Hãy nhập câu trả lời trước khi kiểm tra.');return}
+     ok=q.answers.some(a=>normQ(a)===normQ(text));
+   }
+   answers.set(idx,{text,choice,ok});render();
+ }
+ function summary(){
+   const correct=[...answers.values()].filter(x=>x.ok).length;
+   const total=list.length,done=answers.size,wrong=[...answers.entries()].filter(([i,a])=>!a.ok);
+   $q('quizWork').innerHTML=`<div class="eyebrow">KẾT QUẢ GÓI BÀI TẬP</div><h2 style="color:#17365d">Bạn hoàn thành lượt luyện tập</h2><div class="quiz-summary-grid"><div><b>${correct}/${total}</b><span>Trả lời đúng</span></div><div><b>${done}</b><span>Đã làm</span></div><div><b>${Math.round(correct/Math.max(1,total)*100)}%</b><span>Điểm số</span></div></div><p>${done<total?'Bạn đã kết thúc trước khi làm hết '+(total-done)+' câu.':'Đã hoàn thành tất cả câu hỏi trong gói.'}</p>${wrong.length?`<h3>Câu cần ôn lại (${wrong.length})</h3><div class="quiz-review">${wrong.map(([i,a])=>{const q=list[i];return `<article><b>${escQ(q.prompt)}</b><span>Bạn trả lời: ${escQ(a.text||'Chưa trả lời')}</span><small>Đáp án: ${escQ(q.type==='mc'?q.answer:q.answers[0])} · ${escQ(q.explain)}</small></article>`}).join('')}</div>`:'<p class="quiz-feedback good">Xuất sắc! Không có câu sai trong các câu đã chấm.</p>'}<div class="quiz-actions" style="margin-top:16px"><button id="quizAgain">Làm lại gói này</button></div>`;
+   $q('quizAgain').onclick=start;
+ }
+ $q('quizStart').onclick=start;
+ $q('quizReset').onclick=()=>{$q('quizWork').innerHTML='<div class="quiz-empty"><div style="font-size:38px">✍️</div><b>Chọn gói bài tập để bắt đầu</b><p class="hint">Bạn có thể làm từng dạng riêng hoặc làm cả 50 câu.</p></div>';list=[];answers.clear();idx=0};
+})();
+</script>
+
+</body></html>
