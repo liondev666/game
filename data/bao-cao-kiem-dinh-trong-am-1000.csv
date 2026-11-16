@@ -1,0 +1,1001 @@
+﻿id,ru,ruStressed,stressStatus,stressSource
+1,здравствуйте,здра́вствуйте,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+2,привет,приве́т,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+3,до свидания,до свида́ния,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+4,пожалуйста,пожа́луйста,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+5,спасибо,спаси́бо,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+6,извините,извини́те,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+7,да,да,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+8,нет,нет,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+9,хорошо,хорошо́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+10,понятно,поня́тно,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+11,не понимаю,не понима́ю,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+12,говорить,говори́ть,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+13,повторить,повтори́ть,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+14,медленно,ме́дленно,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+15,как,как,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+16,где,где,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+17,когда,когда́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+18,сколько,ско́лько,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+19,что,что,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+20,кто,кто,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+21,я,я,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+22,ты,ты,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+23,вы,вы,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+24,мы,мы,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+25,быть,быть,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+26,жить,жить,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+27,учиться,учи́ться,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+28,работать,рабо́тать,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+29,понимать,понима́ть,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+30,знать,знать,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+31,хотеть,хоте́ть,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+32,мочь,мо́чь,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+33,идти,идти́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+34,ехать,е́хать,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+35,приходить,приходи́ть,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+36,дом,дом,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+37,комната,ко́мната,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+38,общежитие,общежи́тие,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+39,университет,университе́т,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+40,урок,уро́к,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+41,преподаватель,преподава́тель,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+42,студент,студе́нт,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+43,студентка,студе́нтка,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+44,книга,кни́га,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+45,тетрадь,тетра́дь,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+46,ручка,ру́чка,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+47,вода,вода́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+48,хлеб,хлеб,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+49,молоко,молоко́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+50,завтрак,за́втрак,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+51,обед,обе́д,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+52,ужин,у́жин,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+53,магазин,магази́н,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+54,цена,цена́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+55,деньги,де́ньги,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+56,карта,ка́рта,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+57,метро,метро́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+58,автобус,авто́бус,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+59,остановка,остано́вка,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+60,вокзал,вокза́л,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+61,билет,биле́т,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+62,врач,врач,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+63,аптека,апте́ка,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+64,больница,больни́ца,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+65,болеть,боле́ть,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+66,голова,голова́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+67,температура,температу́ра,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+68,холодно,хо́лодно,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+69,тепло,тепло́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+70,зима,зима́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+71,сегодня,сего́дня,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+72,завтра,за́втра,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+73,вчера,вчера́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+74,утро,у́тро,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+75,вечер,ве́чер,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+76,время,вре́мя,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+77,адрес,а́дрес,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+78,документ,докуме́нт,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+79,паспорт,па́спорт,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+80,регистрация,регистра́ция,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+81,полиция,поли́ция,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+82,помогите,помоги́те,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+83,опасно,опа́сно,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+84,можно,мо́жно,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+85,нельзя,нельзя́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+86,нужно,ну́жно,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+87,рядом,ря́дом,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+88,далеко,далеко́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+89,быстро,бы́стро,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+90,дорого,до́рого,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+91,дешёвый,дешёвый,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+92,большой,большо́й,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+93,маленький,ма́ленький,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+94,новый,но́вый,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+95,русский язык,ру́сский язы́к,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+96,вьетнамец,вьетна́мец,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+97,Москва,Москва́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+98,Россия,Росси́я,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+99,семья,семья́,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+100,родители,роди́тели,curated_high_frequency_lexical_stress,Manual lexical-stress review for common learner vocabulary
+101,мать,ма́ть,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+102,отец,оте́ц,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+103,мама,ма́ма,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+104,папа,па́па,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+105,сын,сын,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+106,дочь,дочь,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+107,брат,брат,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+108,сестра,сестра́,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+109,муж,муж,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+110,жена,жена́,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+111,дедушка,де́душка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+112,бабушка,ба́бушка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+113,внук,внук,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+114,внучка,вну́чка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+115,дядя,дя́дя,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+116,тётя,тётя,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+117,родственник,ро́дственник,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+118,родственница,ро́дственница,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+119,ребёнок,ребёнок,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+120,дети,де́ти,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+121,малыш,малы́ш,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+122,подросток,подро́сток,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+123,друг,друг,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+124,подруга,подру́га,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+125,знакомый,знако́мый,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+126,знакомая,знако́мая,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+127,сосед,сосе́д,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+128,соседка,сосе́дка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+129,гость,го́сть,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+130,гостья,го́стья,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+131,жених,жени́х,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+132,невеста,неве́ста,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+133,брак,бра́к,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+134,свадьба,сва́дьба,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+135,развод,разво́д,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+136,поколение,поколе́ние,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+137,родственники,ро́дственники,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+138,близнецы,близнецы́,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+139,сирота,сирота́,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+140,квартира,кварти́ра,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+141,здание,зда́ние,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+142,подъезд,подъе́зд,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+143,этаж,эта́ж,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+144,лифт,лифт,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+145,лестница,ле́стница,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+146,коридор,коридо́р,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+147,кухня,ку́хня,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+148,ванная,ва́нная,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+149,туалет,туале́т,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+150,спальня,спа́льня,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+151,гостиная,гости́ная,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+152,балкон,балко́н,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+153,окно,окно́,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+154,дверь,две́рь,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+155,стена,стена́,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+156,пол,пол,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+157,потолок,потоло́к,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+158,крыша,кры́ша,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+159,ключ,ключ,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+160,замок,замо́к,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+161,стол,стол,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+162,стул,стул,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+163,кресло,кре́сло,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+164,диван,дива́н,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+165,кровать,крова́ть,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+166,шкаф,шкаф,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+167,полка,по́лка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+168,зеркало,зе́ркало,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+169,лампа,ла́мпа,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+170,свет,свет,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+171,розетка,розе́тка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+172,выключатель,выключа́тель,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+173,холодильник,холоди́льник,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+174,плита,плита́,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+175,духовка,духо́вка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+176,микроволновка,микроволно́вка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+177,стиральная машина,стира́льная маши́на,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+178,пылесос,пылесо́с,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+179,посуда,посу́да,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+180,тарелка,таре́лка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+181,чашка,ча́шка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+182,стакан,стака́н,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+183,ложка,ло́жка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+184,вилка,ви́лка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+185,нож,нож,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+186,кастрюля,кастрю́ля,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+187,сковорода,сковорода́,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+188,полотенце,полоте́нце,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+189,одеяло,одея́ло,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+190,подушка,поду́шка,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+191,простыня,простыня́,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+192,ковёр,ковёр,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+193,занавеска,зана́веска,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+194,мусор,му́сор,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+195,ведро,ведро́,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+196,кран,кра́н,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+197,раковина,рако́вина,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+198,душ,душ,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+199,ванна,ва́нна,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+200,утюг,утю́г,curated_manual_lexical_stress,Manual lexical review for common vocabulary batch 101-200
+201,фен,фе́н,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+202,батарея,батаре́я,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+203,отопление,отопле́ние,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+204,еда,еда́,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+205,пища,пи́ща,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+206,мясо,мя́со,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+207,говядина,говя́дина,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+208,свинина,свини́на,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+209,курица,кури́ца,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+210,рыба,ры́ба,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+211,яйцо,яйцо́,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+212,сыр,сы́р,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+213,масло,ма́сло,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+214,сметана,смета́на,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+215,творог,творо́г,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+216,йогурт,йогу́рт,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+217,кефир,ке́фир,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+218,сливки,сли́вки,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+219,сахар,са́хар,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+220,соль,со́ль,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+221,перец,пе́рец,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+222,мука,мука́,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+223,рис,ри́с,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+224,гречка,гре́чка,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+225,макароны,макаро́ны,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+226,картофель,карто́фель,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+227,морковь,мо́рковь,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+228,лук,лу́к,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+229,чеснок,чесно́к,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+230,помидор,помидо́р,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+231,огурец,огуре́ц,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+232,капуста,ка́пуста,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+233,свёкла,свёкла,ё_inherently_stressed,Russian spelling: ё marks the stressed vowel
+234,грибы,грибы́,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+235,фасоль,фасо́ль,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+236,горох,го́рох,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+237,яблоко,я́блоко,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+238,груша,гру́ша,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+239,банан,бана́н,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+240,апельсин,апельси́н,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+241,лимон,лимо́н,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+242,виноград,виногра́д,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+243,арбуз,арбу́з,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+244,дыня,ды́ня,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+245,клубника,клубни́ка,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+246,малина,мали́на,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+247,вишня,ви́шня,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+248,персик,пе́рсик,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+249,булка,бу́лка,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+250,батон,бато́н,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+251,суп,су́п,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+252,борщ,бо́рщ,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+253,каша,ка́ша,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+254,салат,сала́т,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+255,бутерброд,бутербро́д,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+256,пирог,пиро́г,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+257,торт,то́рт,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+258,печенье,пе́ченье,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+259,мороженое,моро́женое,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+260,шоколад,шокола́д,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+261,мёд,мёд,ё_inherently_stressed,Russian spelling: ё marks the stressed vowel
+262,варенье,варе́нье,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+263,сок,со́к,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+264,чай,ча́й,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+265,кофе,ко́фе,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+266,компот,компо́т,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+267,лимонад,лимона́д,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+268,уксус,у́ксус,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+269,соус,со́ус,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+270,специи,спе́ции,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+271,перекус,переку́с,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+272,десерт,десерт,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+273,школа,шко́ла,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+274,институт,институ́т,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+275,факультет,факульте́т,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+276,кафедра,ка́федра,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+277,деканат,декана́т,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+278,библиотека,библиоте́ка,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+279,аудитория,аудито́рия,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+280,лекция,ле́кция,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+281,семинар,семина́р,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+282,экзамен,экза́мен,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+283,зачёт,зачёт,ё_inherently_stressed,Russian spelling: ё marks the stressed vowel
+284,тест,те́ст,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+285,оценка,оце́нка,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+286,расписание,расписа́ние,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+287,предмет,предме́т,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+288,дисциплина,дисципли́на,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+289,курс,ку́рс,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+290,группа,гру́ппа,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+291,одногруппник,одногру́ппник,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+292,одногруппница,одногру́ппница,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+293,однокурсник,одноку́рсник,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+294,однокурсница,одноку́рсница,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+295,стипендия,стипе́ндия,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+296,диплом,дипло́м,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+297,диссертация,диссерта́ция,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+298,курсовая работа,курсовáя рабо́та,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+299,реферат,рефера́т,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+300,доклад,докла́д,curated_manual_stress_reviewed,Manual lexical review for batch 201–300; still recommend dictionary/native-speaker spot-check.
+301,презентация,презента́ция,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+302,задание,зада́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+303,упражнение,упражне́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+304,ответ,отве́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+305,вопрос,вопро́с,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+306,ошибка,оши́бка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+307,правило,пра́вило,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+308,пример,приме́р,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+309,словарь,слова́рь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+310,грамматика,грамма́тика,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+311,произношение,произноше́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+312,ударение,ударе́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+313,буква,бу́ква,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+314,звук,звук,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+315,слог,слог,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+316,слово,сло́во,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+317,предложение,предложе́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+318,текст,текст,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+319,перевод,перево́д,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+320,переводчик,перево́дчик,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+321,учебник,учебни́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+322,пособие,посо́бие,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+323,доска,доска́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+324,мел,мел,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+325,маркер,ма́ркер,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+326,учебный год,уче́бный го́д,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+327,каникулы,кани́кулы,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+328,поступление,поступле́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+329,зачисление,зачисле́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+330,студенческий билет,студе́нческий биле́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+331,декан,дека́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+332,ректор,ре́ктор,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+333,аспирант,аспира́нт,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+334,магистратура,магистрату́ра,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+335,бакалавриат,бакалавриа́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+336,машина,маши́на,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+337,автомобиль,автомоби́ль,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+338,такси,такси́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+339,поезд,по́езд,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+340,электричка,электри́чка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+341,самолёт,самолёт,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+342,аэропорт,аэропо́рт,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+343,станция,ста́нция,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+344,платформа,платфо́рма,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+345,переход,перехо́д,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+346,улица,у́лица,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+347,проспект,проспе́кт,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+348,площадь,пло́щадь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+349,переулок,переу́лок,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+350,перекрёсток,перекрёсток,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+351,светофор,светофо́р,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+352,пешеход,пеше́ход,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+353,тротуар,троту́ар,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+354,дорога,доро́га,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+355,шоссе,шоссе́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+356,мост,мост,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+357,туннель,тунне́ль,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+358,парковка,па́рковка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+359,парковочное место,парко́вочное ме́сто,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+360,водительское удостоверение,води́тельское удостовере́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+361,права,права́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+362,багаж,бага́ж,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+363,чемодан,чемода́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+364,сумка,су́мка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+365,рюкзак,рюкза́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+366,маршрут,маршру́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+367,маршрутка,маршру́тка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+368,трамвай,трамва́й,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+369,троллейбус,тролле́йбус,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+370,велосипед,велосипе́д,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+371,самокат,самока́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+372,мотоцикл,мотоци́кл,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+373,бензин,бензи́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+374,заправка,запра́вка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+375,тормоз,тормо́з,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+376,колесо,колесо́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+377,ремень безопасности,реме́нь безопа́сности,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+378,пробка,про́бка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+379,авария,ава́рия,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+380,поворот,поворо́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+381,направление,направле́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+382,вход,вхо́д,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+383,выход,вы́ход,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+384,проездной,проездно́й,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+385,пересадка,переса́дка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+386,расписание движения,расписа́ние движе́ния,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+387,отправление,отправле́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+388,прибытие,прибы́тие,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+389,вагон,ваго́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+390,купе,купе́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+391,место,ме́сто,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+392,багажник,бага́жник,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+393,покупка,поку́пка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+394,покупатель,покупа́тель,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+395,покупательница,покупа́тельница,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+396,касса,ка́сса,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+397,чек,чек,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+398,наличные,нали́чные,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+399,безналичная оплата,безнали́чная опла́та,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+400,банковская карта,ба́нковская ка́рта,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+401,банкомат,банкома́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+402,банк,ба́нк,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+403,счёт в банке,счёт в ба́нке,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+404,перевод денег,перево́д де́нег,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+405,комиссия,коми́ссия,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+406,скидка,ски́дка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+407,распродажа,распрода́жа,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+408,акция,а́кция,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+409,стоимость,сто́имость,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+410,сумма,су́мма,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+411,рубль,ру́бль,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+412,копейка,копе́йка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+413,доллар,до́ллар,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+414,евро,е́вро,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+415,кошелёк,кошелёк,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+416,карман,карма́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+417,размер,разме́р,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+418,цвет,цвет,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+419,качество,ка́чество,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+420,товар,това́р,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+421,продукт,проду́кт,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+422,упаковка,упако́вка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+423,пакет,паке́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+424,корзина,корзи́на,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+425,тележка,теле́жка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+426,примерочная,приме́рочная,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+427,возврат,возвра́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+428,обмен,обме́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+429,гарантия,гаранти́я,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+430,доставка,доста́вка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+431,интернет-магазин,интерне́т-мага́зин,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+432,купон,купо́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+433,ценник,це́нник,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+434,продавец,продаве́ц,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+435,кассир,касси́р,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+436,здоровье,здоро́вье,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+437,болезнь,боле́знь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+438,симптом,симпто́м,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+439,боль,бо́ль,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+440,лицо,лицо́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+441,глаз,глаз,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+442,ухо,у́хо,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+443,нос,нос,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+444,рот,рот,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+445,зуб,зуб,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+446,горло,го́рло,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+447,шея,ше́я,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+448,плечо,плечо́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+449,рука,рука́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+450,локоть,ло́коть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+451,кисть,кисть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+452,палец,па́лец,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+453,грудь,грудь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+454,спина,спина́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+455,живот,живо́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+456,нога,нога́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+457,колено,коле́но,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+458,ступня,ступня́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+459,кожа,ко́жа,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+460,сердце,се́рдце,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+461,лёгкие,лёгкие,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+462,печень,пе́чень,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+463,желудок,же́лудок,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+464,кровь,кровь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+465,кость,кость,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+466,мышца,мы́шца,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+467,аппетит,аппети́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+468,кашель,ка́шель,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+469,насморк,насмо́рк,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+470,простуда,просту́да,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+471,грипп,грипп,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+472,давление,давле́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+473,рана,рана́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+474,ожог,ожо́г,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+475,перелом,перело́м,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+476,лекарство,лека́рство,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+477,таблетка,табле́тка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+478,капли,ка́пли,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+479,мазь,ма́зь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+480,рецепт,реце́пт,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+481,анализ,ана́лиз,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+482,рентген,ре́нтген,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+483,приём врача,приём врача́,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+484,скорая помощь,ско́рая по́мощь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+485,поликлиника,поликли́ника,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+486,страховка,страхо́вка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+487,медицинская страховка,медицинская страхо́вка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+488,пациент,пацие́нт,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+489,пациентка,пацие́нтка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+490,аллергия,аллерги́я,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+491,прививка,приви́вка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+492,операция,опера́ция,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+493,хирург,хиру́рг,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+494,терапевт,терапе́вт,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+495,стоматолог,стомато́лог,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+496,медсестра,медсестра́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+497,медбрат,медбра́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+498,анализ крови,ана́лиз крови́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+499,моча,моча́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+500,пульс,пу́льс,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+501,анкета,анке́та,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+502,заявление,заявле́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+503,справка,спра́вка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+504,копия,ко́пия,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+505,оригинал,оригина́л,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+506,подпись,по́дпись,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+507,печать,печа́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+508,доверенность,дове́ренность,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+509,свидетельство,свидете́льство,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+510,свидетельство о рождении,свидете́льство о рожде́нии,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+511,свидетельство о браке,свидете́льство о бра́ке,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+512,виза,ви́за,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+513,миграционная карта,миграцио́нная ка́рта,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+514,миграционный учёт,миграцио́нный учёт,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+515,вид на жительство,вид на жи́тельство,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+516,разрешение,разреше́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+517,разрешение на работу,разреше́ние на рабо́ту,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+518,гражданство,гра́жданство,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+519,посольство,посо́льство,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+520,консульство,ко́нсульство,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+521,консульский отдел,консу́льский отде́л,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+522,граница,грани́ца,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+523,таможня,тамо́жня,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+524,таможенная декларация,тамо́женная деклара́ция,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+525,пограничник,пограни́чник,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+526,инспектор,инспе́ктор,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+527,запись на приём,за́пись на приём,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+528,очередь,о́чередь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+529,талон,тало́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+530,окно приёма,окно́ приёма,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+531,государственная услуга,госуда́рственная услу́га,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+532,госпошлина,госпошли́на,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+533,пошлина,пошли́на,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+534,регламент,регла́мент,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+535,срок действия,срок де́йствия,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+536,продление,продле́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+537,истечение срока,истече́ние сро́ка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+538,уведомление,уведомле́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+539,место жительства,ме́сто жи́тельства,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+540,личные данные,ли́чные да́нные,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+541,персональные данные,персона́льные да́нные,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+542,регистрация по месту пребывания,регистра́ция по ме́сту пребыва́ния,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+543,договор аренды,догово́р аренды́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+544,выписка,вы́писка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+545,заявление о регистрации,заявле́ние о регистра́ции,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+546,паспортный стол,па́спортный стол,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+547,город,го́род,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+548,деревня,дере́вня,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+549,посёлок,посёлок,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+550,район,райо́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+551,центр,це́нтр,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+552,окраина,окра́ина,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+553,парк,па́рк,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+554,сквер,сквер,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+555,музей,музе́й,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+556,театр,теа́тр,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+557,кинотеатр,кинотеа́тр,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+558,концертный зал,конце́ртный зал,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+559,стадион,стадион,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+560,бассейн,бассе́йн,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+561,спортзал,спортза́л,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+562,почта,по́чта,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+563,почтовое отделение,почто́вое отделе́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+564,суд,суд,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+565,мэрия,мэ́рия,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+566,администрация,администра́ция,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+567,пожарная часть,пожа́рная часть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+568,полицейский участок,полице́йский уча́сток,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+569,рынок,ры́нок,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+570,супермаркет,супермарке́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+571,торговый центр,торго́вый центр,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+572,парикмахерская,парикма́херская,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+573,салон красоты,сало́н красоты́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+574,ателье,ателье́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+575,мастерская,масте́рская,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+576,гостиница,гости́ница,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+577,отель,оте́ль,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+578,хостел,хосте́л,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+579,общественный туалет,обще́ственный туале́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+580,прачечная,пра́чечная,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+581,сервисный центр,се́рвисный центр,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+582,храм,храм,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+583,церковь,це́рковь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+584,мечеть,мече́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+585,монастырь,монасты́рь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+586,памятник,па́мятник,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+587,фонтан,фонта́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+588,набережная,на́бережная,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+589,зоопарк,зоопа́рк,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+590,выставка,вы́ставка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+591,галерея,галере́я,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+592,погода,пого́да,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+593,климат,кли́мат,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+594,солнце,со́лнце,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+595,луна,луна́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+596,звезда,звезда́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+597,небо,не́бо,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+598,облако,о́блако,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+599,дождь,дождь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+600,снег,снег,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+601,ветер,ве́тер,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+602,туман,тума́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+603,гроза,гроза́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+604,молния,мо́лния,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+605,гром,гром,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+606,мороз,мо́роз,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+607,гололёд,гололёд,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+608,метель,мете́ль,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+609,оттепель,отте́пель,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+610,жара,жа́ра,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+611,прохлада,прохла́да,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+612,градус,гра́дус,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+613,прогноз,прогно́з,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+614,природа,приро́да,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+615,лес,лес,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+616,дерево,де́рево,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+617,трава,трава́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+618,цветок,цвето́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+619,лист,лист,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+620,река,река́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+621,озеро,о́зеро,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+622,море,мо́ре,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+623,океан,океа́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+624,гора,гора́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+625,холм,холм,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+626,поле,по́ле,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+627,земля,земля́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+628,песок,песо́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+629,камень,ка́мень,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+630,остров,о́стров,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+631,берег,бе́рег,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+632,водопад,водопа́д,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+633,долина,доли́на,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+634,пустыня,пусты́ня,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+635,болото,бо́лото,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+636,источник,исто́чник,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+637,родник,родни́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+638,растение,расте́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+639,корень,ко́рень,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+640,ветка,ве́тка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+641,семя,се́мя,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+642,почва,по́чва,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+643,животное,живо́тное,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+644,собака,соба́ка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+645,кошка,ко́шка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+646,кот,кот,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+647,котёнок,котёнок,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+648,щенок,щено́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+649,лошадь,ло́шадь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+650,корова,коро́ва,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+651,бык,бык,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+652,телёнок,телёнок,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+653,свинья,свинья́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+654,овца,овца́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+655,коза,коза́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+656,петух,пету́х,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+657,утка,у́тка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+658,гусь,гусь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+659,индюк,индю́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+660,кролик,кро́лик,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+661,мышь,мы́шь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+662,крыса,кры́са,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+663,белка,бе́лка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+664,ёж,ёж,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+665,лиса,лиса́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+666,волк,во́лк,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+667,медведь,медве́дь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+668,олень,олень,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+669,лось,лось,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+670,заяц,за́яц,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+671,тигр,тигр,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+672,лев,лев,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+673,слон,слон,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+674,обезьяна,обезья́на,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+675,птица,пти́ца,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+676,воробей,воробе́й,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+677,голубь,голу́бь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+678,ворона,воро́на,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+679,орёл,орёл,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+680,сова,сова́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+681,лебедь,ле́бедь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+682,насекомое,насеко́мое,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+683,пчела,пчела́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+684,комар,кома́р,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+685,муха,муха́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+686,муравей,мураве́й,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+687,бабочка,бабочка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+688,змея,змея́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+689,лягушка,лягу́шка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+690,черепаха,черепа́ха,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+691,дельфин,дельфи́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+692,кит,кит,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+693,акула,акула́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+694,медуза,меду́за,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+695,одежда,оде́жда,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+696,обувь,о́бувь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+697,рубашка,руба́шка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+698,футболка,футбо́лка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+699,свитер,сви́тер,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+700,кофта,ко́фта,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+701,куртка,ку́ртка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+702,пальто,пальто́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+703,пуховик,пухови́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+704,плащ,плащ,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+705,костюм,костю́м,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+706,пиджак,пиджа́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+707,брюки,брю́ки,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+708,джинсы,джи́нсы,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+709,шорты,шо́рты,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+710,юбка,ю́бка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+711,платье,пла́тье,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+712,носки,носки́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+713,колготки,колго́тки,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+714,нижнее бельё,ни́жнее бельё,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+715,пижама,пижа́ма,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+716,шапка,ша́пка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+717,кепка,ке́пка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+718,шарф,ша́рф,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+719,перчатки,перча́тки,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+720,варежки,варе́жки,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+721,ремень,реме́нь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+722,галстук,га́лстук,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+723,сумочка,су́мочка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+724,зонт,зонт,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+725,очки,о́чки,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+726,солнцезащитные очки,солнцезащи́тные о́чки,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+727,часы,часы́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+728,кольцо,кольцо́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+729,цепочка,це́почка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+730,серьги,се́рьги,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+731,ботинки,боти́нки,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+732,сапоги,сапоги́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+733,кроссовки,кроссо́вки,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+734,туфли,ту́фли,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+735,тапочки,та́почки,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+736,сандалии,санда́лии,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+737,перчатка,перча́тка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+738,пуговица,пу́говица,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+739,телефон,телефо́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+740,смартфон,смартфо́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+741,компьютер,компью́тер,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+742,ноутбук,ноутбу́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+743,планшет,планше́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+744,экран,экра́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+745,клавиатура,клавиату́ра,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+746,принтер,при́нтер,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+747,сканер,ска́нер,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+748,наушники,нау́шники,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+749,зарядка,заря́дка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+750,зарядное устройство,заря́дное устро́йство,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+751,аккумулятор,аккумуля́тор,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+752,кабель,ка́бель,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+753,провод,прово́д,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+754,интернет,интерне́т,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+755,сеть,сеть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+756,сайт,са́йт,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+757,страница,страни́ца,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+758,ссылка,ссы́лка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+759,пароль,па́роль,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+760,логин,ло́гин,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+761,учётная запись,учётная за́пись,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+762,приложение,приложе́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+763,программа,програ́мма,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+764,файл,фа́йл,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+765,папка,па́пка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+766,сообщение,сообще́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+767,письмо,письмо́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+768,звонок,звоно́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+769,видеозвонок,видеозвоно́к,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+770,камера,ка́мера,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+771,фотография,фотогра́фия,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+772,видео,ви́део,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+773,микрофон,микрофо́н,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+774,настройка,настро́йка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+775,обновление,обновле́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+776,безопасность,безопа́сность,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+777,подключение,подключе́ние,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+778,загрузка,загру́зка,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+779,скачивание,ска́чивание,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+780,браузер,бра́узер,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+781,поисковик,поиско́вик,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+782,сервер,се́рвер,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+783,база данных,ба́за да́нных,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+784,резервная копия,резе́рвная ко́пия,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+785,бумага для принтера,бума́га для при́нтера,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+786,счастливый,счастли́вый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+787,радостный,ра́достный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+788,грустный,гру́стный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+789,спокойный,споко́йный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+790,нервный,не́рвный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+791,уставший,уста́вший,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+792,больной,больно́й,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+793,здоровый,здоро́вый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+794,добрый,до́брый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+795,злой,зло́й,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+796,вежливый,вежли́вый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+797,грубый,гру́бый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+798,честный,че́стный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+799,смелый,сме́лый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+800,трусливый,тру́сливый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+801,умный,у́мный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+802,глупый,глу́пый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+803,внимательный,внима́тельный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+804,невнимательный,невнима́тельный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+805,терпеливый,терпели́вый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+806,нетерпеливый,нетерпели́вый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+807,трудолюбивый,трудолюби́вый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+808,ленивый,лени́вый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+809,общительный,общи́тельный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+810,замкнутый,замкну́тый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+811,скромный,скро́мный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+812,уверенный,уве́ренный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+813,серьёзный,серьёзный,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+814,весёлый,весёлый,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+815,скучный,ску́чный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+816,интересный,интере́сный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+817,важный,ва́жный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+818,необходимый,необходи́мый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+819,возможный,возмо́жный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+820,невозможный,невозмо́жный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+821,свободный,свобо́дный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+822,занятый,за́нятый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+823,готовый,гото́вый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+824,довольный,дово́льный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+825,недовольный,недово́льный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+826,удивлённый,удивлённый,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+827,испуганный,испу́ганный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+828,раздражённый,раздражённый,ё_inherently_stressed,Trọng âm thể hiện bằng ё trong chính tả; vẫn cần lưu ý biến thể từ vựng nếu có.
+829,упрямый,упря́мый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+830,щедрый,ще́дрый,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+831,жадный,жа́дный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+832,дружелюбный,дружелю́бный,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+833,спрашивать,спра́шивать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+834,спросить,спроси́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+835,отвечать,отвеча́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+836,ответить,отве́тить,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+837,объяснять,объясня́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+838,объяснить,объясни́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+839,рассказывать,расска́зывать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+840,рассказать,рассказа́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+841,слушать,слу́шать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+842,послушать,послу́шать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+843,слышать,слы́шать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+844,услышать,услы́шать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+845,смотреть,смотре́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+846,посмотреть,посмотре́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+847,видеть,ви́деть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+848,увидеть,уви́деть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+849,читать,чита́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+850,прочитать,прочита́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+851,писать,писа́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+852,написать,написа́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+853,учить,учи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+854,выучить,вы́учить,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+855,изучать,изуча́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+856,изучить,изучи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+857,запоминать,запомина́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+858,запомнить,запо́мнить,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+859,забывать,забыва́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+860,забыть,забы́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+861,вспоминать,вспомина́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+862,вспомнить,вспо́мнить,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+863,показывать,пока́зывать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+864,показать,показа́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+865,искать,иска́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+866,найти,найти́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+867,находить,нахо́дить,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+868,давать,дава́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+869,дать,дать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+870,брать,бра́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+871,взять,взя́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+872,просить,проси́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+873,попросить,попроси́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+874,помогать,помога́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+875,помочь,помо́чь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+876,встречать,встреча́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+877,встретить,встре́тить,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+878,встречаться,встреча́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+879,встретиться,встре́титься,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+880,ждать,ждать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+881,подождать,подожда́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+882,начинать,начина́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+883,начать,нача́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+884,заканчивать,зака́нчивать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+885,закончить,зако́нчить,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+886,продолжать,продолжа́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+887,продолжить,продолжи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+888,решать,реша́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+889,решить,реши́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+890,обсуждать,обсужда́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+891,обсудить,обсуди́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+892,соглашаться,соглаша́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+893,согласиться,согласи́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+894,отказываться,отка́зываться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+895,отказаться,отказа́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+896,предлагать,предлага́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+897,предложить,предложи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+898,обещать,обеща́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+899,благодарить,благодари́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+900,поблагодарить,поблагодари́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+901,извиняться,извиня́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+902,извиниться,извини́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+903,знакомиться,знако́миться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+904,познакомиться,познако́миться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+905,переводить,переводи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+906,перевести,перевести́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+907,произносить,произноси́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+908,произнести,произнести́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+909,повторять,повторя́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+910,ходить,ходи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+911,пойти,пойти́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+912,ездить,е́здить,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+913,поехать,пое́хать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+914,бежать,бежа́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+915,побежать,побежа́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+916,бегать,бе́гать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+917,лететь,лете́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+918,летать,лета́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+919,прилететь,прилете́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+920,улететь,улете́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+921,плавать,пла́вать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+922,поплыть,поплы́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+923,нести,нести́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+924,носить,носи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+925,принести,принести́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+926,унести,унести́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+927,везти,везти́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+928,возить,вози́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+929,привезти,привезти́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+930,увезти,увезти́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+931,входить,входи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+932,войти,войти́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+933,выходить,выходи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+934,выйти,вы́йти,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+935,переходить,переходи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+936,перейти,перейти́,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+937,поворачивать,повора́чивать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+938,повернуть,поверну́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+939,пересаживаться,переса́живаться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+940,пересесть,пересесть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+941,опаздывать,опа́здывать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+942,опоздать,опозда́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+943,прибывать,прибыва́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+944,прибыть,прибы́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+945,отправляться,отправля́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+946,отправиться,отпра́виться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+947,останавливаться,останавлива́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+948,остановиться,останови́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+949,просыпаться,просыпа́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+950,проснуться,просну́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+951,вставать,встава́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+952,встать,вста́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+953,ложиться,ложи́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+954,лечь,лечь,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+955,спать,спать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+956,уснуть,усну́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+957,отдыхать,отдыха́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+958,отдохнуть,отдохну́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+959,умываться,умыва́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+960,умыться,умы́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+961,одеваться,одева́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+962,одеться,оде́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+963,раздеваться,раздева́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+964,раздеться,разде́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+965,стирать,стира́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+966,постирать,постира́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+967,гладить,глади́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+968,погладить,поглади́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+969,убирать,убира́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+970,убрать,убра́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+971,чинить,чини́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+972,починить,почини́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+973,трудиться,труди́ться,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+974,нанимать,нанима́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+975,нанять,наня́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+976,увольнять,увольня́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+977,уволить,уволи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+978,получать,получа́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+979,получить,получи́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+980,отправлять,отправля́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+981,отправить,отпра́вить,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+982,подписывать,подпи́сывать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+983,подписать,подписа́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+984,согласовывать,согласо́вывать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+985,согласовать,согласова́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+986,утверждать,утвержда́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+987,утвердить,утверди́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+988,проверять,проверя́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+989,проверить,прове́рить,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+990,доказывать,дока́зывать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+991,доказать,дока́зать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+992,исследовать,исследова́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+993,проанализировать,проанализи́ровать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+994,сравнивать,сравни́вать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+995,сравнить,сравни́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+996,оценивать,оцени́вать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+997,оценить,оцени́ть,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+998,планировать,плани́ровать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+999,запланировать,заплани́ровать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
+1000,организовывать,организо́вывать,curated_manual_lexical_stress,Rà soát thủ công sơ bộ theo cách phát âm từ vựng; chưa phải chứng nhận từ điển học thuật/người bản ngữ.
